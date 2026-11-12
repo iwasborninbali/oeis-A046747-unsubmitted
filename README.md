@@ -1,7 +1,11 @@
 # OEIS A046747: reference for singularity asymptotics (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted.** (replaced by the registry tool)
+**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+
+- [A046747](https://oeis.org/A046747), Hu, Song and Wu, arXiv:2609.39463 (preprint): **candidate** (2026-11-13: repository built (core c6)). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
 
 ## Definition
