@@ -1,0 +1,14 @@
+method=distinct-row-subsets,exact-determinant-via-F_1009; modulo test exact for n<=6
+OEIS_ref=https://oeis.org/A046747/internal; offset=1
+n,independent_unordered_row_sets,nonsingular_ordered,singular,total,oeis,match,prefix_candidates,cpu_wall_seconds
+1,1,1,1,2,1,PASS,2,0.000003
+2,3,6,10,16,10,PASS,6,0.000003
+3,29,174,338,512,338,PASS,56,0.000005
+4,940,22560,42976,65536,42976,PASS,1730,0.000062
+5,104286,12514320,21040112,33554432,21040112,PASS,179466,0.009577
+6,40050850,28836612000,39882864736,68719476736,39882864736,PASS,64074018,3.712731
+overall=PASS
+total_wall_seconds=3.72
+total_user_cpu_seconds=3.71
+total_system_cpu_seconds=0.00
+peak_rss_kb=1536
